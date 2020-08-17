@@ -12,5 +12,3 @@ For this the data was gathered from two sources
 - It was found that Maharashtra has recorded highest Number of Active cases i.e. 221944 & Highest number    of deaths in a single day i.e. 13883 
   (NOTE : The data is till 28th July 2020)
 - Tamilnadu was the second state after Maharashtra in Active cases.
-
-  Rachit Agarwal
